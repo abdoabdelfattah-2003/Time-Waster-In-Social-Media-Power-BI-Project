@@ -13,9 +13,11 @@ Let’s show you what we did 🏃‍➡️
 ![image](https://github.com/user-attachments/assets/d5170783-8f6f-4e59-94ef-4e96c82b2adc)
 
 Then convert values in 'Age' column to numeric, setting any non-numeric values to NaN and Fill missing values with the mean
+
   ![image](https://github.com/user-attachments/assets/34999118-9f4d-4de5-9d7e-93eae50d83bc)
 
 Convert the values to int in age
+
  ![image](https://github.com/user-attachments/assets/ac3d90fb-400b-482d-8b0d-9cbdb853bc1a)
 
 
