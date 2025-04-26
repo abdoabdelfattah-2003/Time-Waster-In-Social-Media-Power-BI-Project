@@ -235,3 +235,15 @@ Profit page:
 •	Insights: This will help you understand how satisfied users are with the content or experience on each platform.
 
 
+📬 Contact
+-----------------------------------------------------
+
+For inquiries, feedback, or collaboration opportunities, feel free to reach out:
+
+👤 Name: Abdelrahman Abdelfattah
+
+📧 Email: abdoabdelfattah243@gmail.com
+
+📍 Location: Obour City, Egypt
+
+🤝 Availability: Open to freelance opportunities and collaborations!
