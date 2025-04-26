@@ -1,5 +1,5 @@
-Time Wasters On Social Media 
-
+**Time Wasters On Social Media 
+----------------------------------------
 
 In the first we are searched about Data set but the challenge was we want the topic of Data set should be valuable and un cleaned, so we searched a lot and a lot  but we didn’t found what we wanted 🤦‍♂️
 
@@ -9,38 +9,38 @@ Let’s show you what we did 🏃‍➡️
 
 •	The part of cleaning with python :
 
-Step 1: Remove the trailing '-' using .str.replace()
- 
+**Step 1: Remove the trailing '-' using .str.replace()
 
 Then convert values in 'Age' column to numeric, setting any non-numeric values to NaN and Fill missing values with the mean
   
 Convert the values to int in age
  
+![image](https://github.com/user-attachments/assets/d5170783-8f6f-4e59-94ef-4e96c82b2adc)
 
-Step 2:To rename gender correctly
+**Step 2:To rename gender correctly
  
 
 
 
 
 
-Step 3:To remove'x' from the location
+**Step 3:To remove'x' from the location
  
 
-Step 4:To remove( job:)
- 
-
-
-Step 5:to remove r and u that before the Demographics
- 
-
-Step 6:to make all values small letters
+**Step 4:To remove( job:)
  
 
 
+**Step 5:to remove r and u that before the Demographics
+ 
+
+**Step 6:to make all values small letters
+ 
 
 
-Step 7:to remove /
+
+
+**Step 7:to remove /
  
 Step 8: to rename Device Type correctly
  
